@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a forth year undergraduate student from [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/). My main research interests include Large Language Models, Retrieval Augmented Generation and Coding Agents. 
 
-I'm about to join [LLM for Software Engineering Lab (LLMSE)](LLM for Software Engineering Lab (LLMSE)),  affiliated with the School of Computer Science at Shanghai Jiao Tong University in September, 2026.
+I'm about to become a Phd Candidate of [LLM for Software Engineering Lab (LLMSE)](https://base.sjtu.edu.cn/home/doku.php?id=start),  affiliated with the School of Computer Science at Shanghai Jiao Tong University in September, 2026. I’m grateful to be advised by Prof. Xiaodong Gu and Prof. Beijun Shen.
 
 ## EDUCATION
 **2022.8-Current**:    Hua Xia Talent Program in Computer Science and Technology, USTC.
