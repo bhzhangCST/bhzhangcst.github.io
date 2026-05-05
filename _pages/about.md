@@ -7,22 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/). My main research interests include Large Language Models, Artificial Intelligence, Adaptive Testing, and Retrieval Augmented Generation. 
+I'm a forth year undergraduate student from [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/). My main research interests include Large Language Models, Retrieval Augmented Generation and Coding Agents. 
 
-You can find my CV here: [Bohou Zhang's Curriculum Vitae](./CV.pdf).
+I'm about to join [LLM for Software Engineering Lab (LLMSE)](LLM for Software Engineering Lab (LLMSE)),  affiliated with the School of Computer Science at Shanghai Jiao Tong University in September, 2026.
 
 ## EDUCATION
 **2022.8-Current**:    Hua Xia Talent Program in Computer Science and Technology, USTC.
 
 ## PUBLICATION
-\[S.1\] Yan Zhuang, Qi Liu, Junhao Yu, **Bohou Zhang**, Zhenya Huang, Zachary A.Pardos, Jinze Wu, Enhong Chen
- (2024). **Adaptive Testing via Gradient-Matching Subset Selection**. Manuscript submitted for publication in IEEE
- Transactions on Knowledge and Data Engineering. ⋄ Under peer review since December 2024([Code Here](https://github.com/54zy/BEAT)).
+\[1\] **Bohou Zhang**, Xiaoyu Tao, Mingyue Cheng, Huijie Liu, Qi Liu (2026). ScholarSum: Student-Teacher Abstractive Summarization via Knowledge Graph Reasoning and Reflective Refinement. In Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI 2026).
+
+\[2\] Yan Zhuang, Junhao Yu, **Bohou Zhang**, Zachary Pardos, Jinze Wu, Daoqiang Zhang (2026). Efficient Adaptive Testing via Gradient Path Matching Subset Selection for AI Education. In Proceedings of the 43rd International Conference on Machine Learning (ICML 2026).
+
+
 
 ## HONORS 
- - Outstanding Student Scholarship(2023&2024).\
+ - Excellent Graduate of School of Computer Science and Technology.\
    <small>University of Science and Technology of China</small>
- - Outstanding Campers of Kunpeng & Shengteng AI Summer Camp(First Place).\
+ - Outstanding Student Scholarship(2023&2024&2025).\
+   <small>University of Science and Technology of China</small>
+ - Outstanding Campers of Kunpeng & Ascend AI Summer Camp(First Place).\
    <small> Hangzhou Research Institute of HuaWei Technologies Co., Ltd</small>
 
 
